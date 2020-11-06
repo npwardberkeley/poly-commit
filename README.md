@@ -29,7 +29,7 @@ rustup install stable
 
 After that, use `cargo` (the standard Rust build tool) to build the library:
 ```bash
-git clone https://github.com/scipr-lab/poly-commit.git
+git clone https://github.com/arkworks-rs/poly-commit.git
 cd poly-commit
 cargo build --release
 ```
